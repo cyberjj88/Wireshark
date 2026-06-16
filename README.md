@@ -1,5 +1,8 @@
 # 🦈 Lab 02 — Wireshark & Network Traffic Analysis
 
+## Watch me do the lab HERE
+https://www.loom.com/share/bda5ed4ad2a14c2e9adbb22cc4c8e993
+
 **Author:** Jair Smith
 **Difficulty:** 🟡 Intermediate
 **Estimated Time:** ⏱ 2–4 Hours (across multiple sessions)
